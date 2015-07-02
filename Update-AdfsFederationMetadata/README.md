@@ -18,7 +18,7 @@ INSTALLATION
 - cd into the script directory (ie C:\ADFS)
 - Run the script (.\Update-AdfsFederationMetadata.ps1) and review the output
 
-AUTOMATING
+AUTOMATION
 - Once everything is running smoothly, you can add a scheduled task for this script.
 - Edit Create-AdfsFederationMetadataScheduledJob.ps1 and modify the settings as needed.
 - Run .\Create-AdfsFederationMetadataScheduledJob.ps1 and enter credentials for a valid admin user when prompted.
